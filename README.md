@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?JCharls1=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?JCharls1=ryo-ma&title=Followers
 
 <!---
 JCharls1/JCharls1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
